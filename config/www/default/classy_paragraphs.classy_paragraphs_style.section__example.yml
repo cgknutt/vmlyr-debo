@@ -1,0 +1,9 @@
+uuid: 4c02a86b-38e8-40ee-bbe0-63baa7aa2ce6
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: O8Q8NS8uk9-PXPIizxFSBVTeutNI3r0uG2S-UunGK10
+id: section__example
+label: Example
+classes: component-section--example-class

@@ -1,0 +1,9 @@
+uuid: 6b0ce634-af0b-4cfe-9b21-e3e6d1226ff7
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 5HR2qy3v_gKsyQnY73Y-KM-cHAJP4AeeS6gZ8EvMVr0
+id: pullquote__example
+label: Example
+classes: component-pullquote--example

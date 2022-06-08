@@ -1,0 +1,12 @@
+uuid: 726f6a3e-9221-498f-9dc4-2367420606b4
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: g_oOPkLE3EY7ihrVCwttPyKRWYDOF9XVgunkVUZERIo
+id: section
+label: Section
+icon_uuid: null
+icon_default: null
+description: ''
+behavior_plugins: {  }

@@ -1,0 +1,12 @@
+uuid: 7c1cc72e-6953-4f62-9046-d8d417cc0303
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: EKFh_jQ4k4BHcn-MXfkN9DkGHcAGP4dqhPBBu4I2Gsw
+machine: remote_dev
+description: null
+name: Dev
+url: 'https://dev-www.vmlyr-debo.com'
+fg_color: '#333333'
+bg_color: '#ffcc66'

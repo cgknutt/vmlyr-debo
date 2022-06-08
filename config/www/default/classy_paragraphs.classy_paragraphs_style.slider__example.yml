@@ -1,0 +1,9 @@
+uuid: 4655415c-5508-4e4b-a842-1ebf6cd29159
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: WA5WPfIxVvqrQof8lm_UHZV3EzYv3Xy-dq8li_XWgWA
+id: slider__example
+label: Example
+classes: component-slider--example-class

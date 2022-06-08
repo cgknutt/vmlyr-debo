@@ -1,0 +1,9 @@
+uuid: c44a9f59-0e40-459b-a616-7a38d2f5cb27
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: Cr0jieWf0hFFD4_cpZkarSrS7CqAqXacNOXPT7Jf37Y
+id: tabs__example
+label: Example
+classes: component-tabs--example-class

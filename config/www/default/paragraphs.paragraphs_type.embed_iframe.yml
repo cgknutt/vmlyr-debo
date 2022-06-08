@@ -1,0 +1,12 @@
+uuid: bf3d104c-a57e-488c-9436-b72714f39ebf
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: SV1Nb4guGmWr2PA93GGfjL4KoOLOrmol7t853QlU6P8
+id: embed_iframe
+label: 'Embed: Iframe'
+icon_uuid: null
+icon_default: null
+description: ''
+behavior_plugins: {  }

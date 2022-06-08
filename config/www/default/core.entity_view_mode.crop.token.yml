@@ -1,0 +1,12 @@
+uuid: 7928ce92-0510-4aa7-a47b-0e75aa5e64b5
+langcode: en
+status: true
+dependencies:
+  module:
+    - crop
+_core:
+  default_config_hash: sEDKWW8PhNQCzGMRivqA5_dGr_kdHnbThsVjkgJOqaM
+id: crop.token
+label: Token
+targetEntityType: crop
+cache: true

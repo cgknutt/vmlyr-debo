@@ -1,0 +1,12 @@
+uuid: a2f2a833-2160-4665-afb4-0368d87e7d7a
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 8oStZ70Bjiu-FhE29ggRewJrOvgZ1yesBATRRLGfRQM
+id: tabs_tab
+label: 'Tabs: Tab'
+icon_uuid: null
+icon_default: null
+description: ''
+behavior_plugins: {  }

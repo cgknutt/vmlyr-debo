@@ -1,0 +1,12 @@
+uuid: af09c19d-df31-4c41-ae1b-aa65b84f2583
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: zTxzGYL-oduakOZdc5uwH2PypOsCMaQouCzlqj0mlFU
+machine: remote_prod
+description: null
+name: Prod
+url: 'https://www.vmlyr-debo.com'
+fg_color: '#d0d0d0'
+bg_color: '#0d0d0d'

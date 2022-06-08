@@ -1,0 +1,9 @@
+uuid: bc66b572-0720-4c2d-8d42-6ee1313b7a5a
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: a4an7m6PXfiX2prpQShtkbAHrQulx5FNyttTx7AD7yI
+id: embed_block__example
+label: Example
+classes: component-embed-block--example-class
